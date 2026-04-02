@@ -1,13 +1,7 @@
 
-
-
 <div align="center">
-   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
+   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:d4a5ff,100:b388eb&reversal=true" />
 </div>
-
-<!--Banner-->
-![Kiran1689 Banner Image]()
-
 
 
 
@@ -29,11 +23,11 @@
 
 
 
-## Skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 
+## Habilidades <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 
 
 
 
-<h4> Languages </h4>
+<h4> Languajes </h4>
 
 <span> 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
